@@ -18,7 +18,7 @@ To install it, you just have to clone the repository
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Char1esD/Local-Chat-in-Python
 ```
 
 Go to the project directory
